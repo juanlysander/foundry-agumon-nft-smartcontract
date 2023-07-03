@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="10cm" height="10cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10000 10000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#E6C744}
+    .fil1 {fill:#FEFEFE}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1200939952">
+   <rect class="fil0" width="10000" height="10000"/>
+   <g>
+    <polygon class="fil1" points="4279,2940 5721,2940 5000,2219 "/>
+    <polygon class="fil1" points="3034,4053 4053,3034 3034,3034 "/>
+    <polygon class="fil1" points="2940,5721 2940,4279 2219,5000 "/>
+    <path class="fil1" d="M3313 5000c0,932 755,1687 1687,1687 932,0 1687,-755 1687,-1687 0,-932 -755,-1687 -1687,-1687 -932,0 -1687,755 -1687,1687zm1687 1109c-612,0 -1109,-497 -1109,-1109 0,-612 497,-1109 1109,-1109 612,0 1109,497 1109,1109 0,612 -497,1109 -1109,1109z"/>
+    <path class="fil1" d="M4449 5000c0,304 247,551 551,551 304,0 551,-247 551,-551 0,-304 -247,-551 -551,-551 -304,0 -551,247 -551,551z"/>
+    <polygon class="fil1" points="4053,6966 3034,5947 3034,6966 "/>
+    <polygon class="fil1" points="5721,7060 4279,7060 5000,7781 "/>
+    <polygon class="fil1" points="6966,5947 5947,6966 6966,6966 "/>
+    <polygon class="fil1" points="7060,4279 7060,5721 7781,5000 "/>
+    <polygon class="fil1" points="5947,3034 6966,4053 6966,3034 "/>
+   </g>
+  </g>
+ </g>
+</svg>
